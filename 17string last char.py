@@ -1,4 +1,4 @@
-str = input (" ")
+str = input ("your name ")
 length = len(str)
 #len() built in function
 last_character = str[-1]
